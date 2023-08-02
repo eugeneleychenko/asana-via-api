@@ -1,0 +1,5 @@
+streamlit
+asana
+fuzzywuzzy 
+python-Levenshtein 
+python-dotenv
